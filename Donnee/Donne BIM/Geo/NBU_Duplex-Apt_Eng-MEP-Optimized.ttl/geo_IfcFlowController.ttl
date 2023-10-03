@@ -1,0 +1,100 @@
+@prefix ifcowl:  <http://www.buildingsmart-tech.org/ifcOWL/IFC2X3_TC1#> .
+@prefix inst: <http://linkedbuildingdata.net/ifc/resources13ab4c92/>.
+
+ inst:IfcFlowController_780 ifcowl:x_min 3.331526517868042.
+ inst:IfcFlowController_780 ifcowl:y_min -10.937612533569336.
+ inst:IfcFlowController_780 ifcowl:z_min 3.3485000133514404.
+ inst:IfcFlowController_780 ifcowl:x_max 3.4115264415740967.
+ inst:IfcFlowController_780 ifcowl:y_max -10.798612594604492.
+ inst:IfcFlowController_780 ifcowl:z_max 3.564500093460083.
+
+ inst:IfcFlowController_929 ifcowl:x_min 5.40372371673584.
+ inst:IfcFlowController_929 ifcowl:y_min -6.837121486663818.
+ inst:IfcFlowController_929 ifcowl:z_min 3.258059024810791.
+ inst:IfcFlowController_929 ifcowl:x_max 5.529125213623047.
+ inst:IfcFlowController_929 ifcowl:y_max -6.74212121963501.
+ inst:IfcFlowController_929 ifcowl:z_max 3.6180591583251953.
+
+ inst:IfcFlowController_782 ifcowl:x_min 3.2771639823913574.
+ inst:IfcFlowController_782 ifcowl:y_min -10.64651870727539.
+ inst:IfcFlowController_782 ifcowl:z_min 2.9289560317993164.
+ inst:IfcFlowController_782 ifcowl:x_max 3.357163906097412.
+ inst:IfcFlowController_782 ifcowl:y_max -10.507518768310547.
+ inst:IfcFlowController_782 ifcowl:z_max 3.144956111907959.
+
+ inst:IfcFlowController_931 ifcowl:x_min 3.2708747386932373.
+ inst:IfcFlowController_931 ifcowl:y_min -11.035948753356934.
+ inst:IfcFlowController_931 ifcowl:z_min 3.1930062770843506.
+ inst:IfcFlowController_931 ifcowl:x_max 3.3962764739990234.
+ inst:IfcFlowController_931 ifcowl:y_max -10.940949440002441.
+ inst:IfcFlowController_931 ifcowl:z_max 3.553006172180176.
+
+ inst:IfcFlowController_2228 ifcowl:x_min 2.2425079345703125.
+ inst:IfcFlowController_2228 ifcowl:y_min -13.149049758911133.
+ inst:IfcFlowController_2228 ifcowl:z_min 5.598299980163574.
+ inst:IfcFlowController_2228 ifcowl:x_max 2.3825080394744873.
+ inst:IfcFlowController_2228 ifcowl:y_max -13.009049415588379.
+ inst:IfcFlowController_2228 ifcowl:z_max 5.699999809265137.
+
+ inst:IfcFlowController_2230 ifcowl:x_min 6.459285259246826.
+ inst:IfcFlowController_2230 ifcowl:y_min -4.9230780601501465.
+ inst:IfcFlowController_2230 ifcowl:z_min 5.598299980163574.
+ inst:IfcFlowController_2230 ifcowl:x_max 6.599285125732422.
+ inst:IfcFlowController_2230 ifcowl:y_max -4.783077716827393.
+ inst:IfcFlowController_2230 ifcowl:z_max 5.699999809265137.
+
+ inst:IfcFlowController_2227 ifcowl:x_min 6.605608940124512.
+ inst:IfcFlowController_2227 ifcowl:y_min -12.78968620300293.
+ inst:IfcFlowController_2227 ifcowl:z_min 2.498300075531006.
+ inst:IfcFlowController_2227 ifcowl:x_max 6.745609283447266.
+ inst:IfcFlowController_2227 ifcowl:y_max -12.649685859680176.
+ inst:IfcFlowController_2227 ifcowl:z_max 2.5999999046325684.
+
+ inst:IfcFlowController_928 ifcowl:x_min 5.449636459350586.
+ inst:IfcFlowController_928 ifcowl:y_min -7.602887153625488.
+ inst:IfcFlowController_928 ifcowl:z_min 3.2363157272338867.
+ inst:IfcFlowController_928 ifcowl:x_max 5.544636249542236.
+ inst:IfcFlowController_928 ifcowl:y_max -7.242887020111084.
+ inst:IfcFlowController_928 ifcowl:z_max 3.361717462539673.
+
+ inst:IfcFlowController_781 ifcowl:x_min 5.3884735107421875.
+ inst:IfcFlowController_781 ifcowl:y_min -7.001387596130371.
+ inst:IfcFlowController_781 ifcowl:z_min 3.344325065612793.
+ inst:IfcFlowController_781 ifcowl:x_max 5.468473434448242.
+ inst:IfcFlowController_781 ifcowl:y_max -6.862387657165527.
+ inst:IfcFlowController_781 ifcowl:z_max 3.5603249073028564.
+
+ inst:IfcFlowController_930 ifcowl:x_min 3.2551639080047607.
+ inst:IfcFlowController_930 ifcowl:y_min -10.528337478637695.
+ inst:IfcFlowController_930 ifcowl:z_min 3.206549882888794.
+ inst:IfcFlowController_930 ifcowl:x_max 3.3501639366149902.
+ inst:IfcFlowController_930 ifcowl:y_max -10.16833782196045.
+ inst:IfcFlowController_930 ifcowl:z_max 3.33195161819458.
+
+ inst:IfcFlowController_2229 ifcowl:x_min 6.445127010345459.
+ inst:IfcFlowController_2229 ifcowl:y_min -13.153998374938965.
+ inst:IfcFlowController_2229 ifcowl:z_min 5.598299980163574.
+ inst:IfcFlowController_2229 ifcowl:x_max 6.585126876831055.
+ inst:IfcFlowController_2229 ifcowl:y_max -13.013998031616211.
+ inst:IfcFlowController_2229 ifcowl:z_max 5.699999809265137.
+
+ inst:IfcFlowController_779 ifcowl:x_min 5.442836284637451.
+ inst:IfcFlowController_779 ifcowl:y_min -7.233481407165527.
+ inst:IfcFlowController_779 ifcowl:z_min 2.884012460708618.
+ inst:IfcFlowController_779 ifcowl:x_max 5.581836223602295.
+ inst:IfcFlowController_779 ifcowl:y_max -7.153481483459473.
+ inst:IfcFlowController_779 ifcowl:z_max 3.1000125408172607.
+
+ inst:IfcFlowController_2226 ifcowl:x_min 1.818112850189209.
+ inst:IfcFlowController_2226 ifcowl:y_min -4.923137664794922.
+ inst:IfcFlowController_2226 ifcowl:z_min 2.498300075531006.
+ inst:IfcFlowController_2226 ifcowl:x_max 1.9581128358840942.
+ inst:IfcFlowController_2226 ifcowl:y_max -4.783137798309326.
+ inst:IfcFlowController_2226 ifcowl:z_max 2.5999999046325684.
+
+ inst:IfcFlowController_2231 ifcowl:x_min 2.090798854827881.
+ inst:IfcFlowController_2231 ifcowl:y_min -4.8852434158325195.
+ inst:IfcFlowController_2231 ifcowl:z_min 5.598299980163574.
+ inst:IfcFlowController_2231 ifcowl:x_max 2.2307989597320557.
+ inst:IfcFlowController_2231 ifcowl:y_max -4.745243549346924.
+ inst:IfcFlowController_2231 ifcowl:z_max 5.699999809265137.

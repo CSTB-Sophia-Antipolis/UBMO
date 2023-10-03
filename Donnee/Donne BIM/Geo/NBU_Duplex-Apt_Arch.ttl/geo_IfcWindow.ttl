@@ -1,0 +1,170 @@
+@prefix ifcowl:  <http://www.buildingsmart-tech.org/ifcOWL/IFC2X3_TC1#> .
+@prefix inst: <http://linkedbuildingdata.net/ifc/resources86d73257/>.
+
+ inst:IfcWindow_6531 ifcowl:x_min 0.4169999957084656.
+ inst:IfcWindow_6531 ifcowl:y_min -17.799999237060547.
+ inst:IfcWindow_6531 ifcowl:z_min 0.10000000149011612.
+ inst:IfcWindow_6531 ifcowl:x_max 5.251999855041504.
+ inst:IfcWindow_6531 ifcowl:y_max -17.382999420166016.
+ inst:IfcWindow_6531 ifcowl:z_max 2.5199999809265137.
+
+ inst:IfcWindow_22292 ifcowl:x_min 8.383000373840332.
+ inst:IfcWindow_22292 ifcowl:y_min -4.136000156402588.
+ inst:IfcWindow_22292 ifcowl:z_min 4.0254998207092285.
+ inst:IfcWindow_22292 ifcowl:x_max 8.800000190734863.
+ inst:IfcWindow_22292 ifcowl:y_max -3.316999912261963.
+ inst:IfcWindow_22292 ifcowl:z_max 4.7845001220703125.
+
+ inst:IfcWindow_22136 ifcowl:x_min -7.216449660063518E-16.
+ inst:IfcWindow_22136 ifcowl:y_min -14.482999801635742.
+ inst:IfcWindow_22136 ifcowl:z_min 4.0254998207092285.
+ inst:IfcWindow_22136 ifcowl:x_max 0.4169999957084656.
+ inst:IfcWindow_22136 ifcowl:y_max -13.663999557495117.
+ inst:IfcWindow_22136 ifcowl:z_max 4.7845001220703125.
+
+ inst:IfcWindow_7639 ifcowl:x_min 0.4169999957084656.
+ inst:IfcWindow_7639 ifcowl:y_min -0.4169999957084656.
+ inst:IfcWindow_7639 ifcowl:z_min 4.0254998207092285.
+ inst:IfcWindow_7639 ifcowl:x_max 1.2359999418258667.
+ inst:IfcWindow_7639 ifcowl:y_max -1.4432899320127035E-15.
+ inst:IfcWindow_7639 ifcowl:z_max 4.7845001220703125.
+
+ inst:IfcWindow_22396 ifcowl:x_min 8.383000373840332.
+ inst:IfcWindow_22396 ifcowl:y_min -12.52400016784668.
+ inst:IfcWindow_22396 ifcowl:z_min 3.200000047683716.
+ inst:IfcWindow_22396 ifcowl:x_max 8.800000190734863.
+ inst:IfcWindow_22396 ifcowl:y_max -11.77400016784668.
+ inst:IfcWindow_22396 ifcowl:z_max 5.400000095367432.
+
+ inst:IfcWindow_22240 ifcowl:x_min 8.383000373840332.
+ inst:IfcWindow_22240 ifcowl:y_min -4.136000156402588.
+ inst:IfcWindow_22240 ifcowl:z_min 4.85099983215332.
+ inst:IfcWindow_22240 ifcowl:x_max 8.800000190734863.
+ inst:IfcWindow_22240 ifcowl:y_max -3.316999912261963.
+ inst:IfcWindow_22240 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcWindow_7743 ifcowl:x_min 0.4169999957084656.
+ inst:IfcWindow_7743 ifcowl:y_min -0.4169999957084656.
+ inst:IfcWindow_7743 ifcowl:z_min 4.85099983215332.
+ inst:IfcWindow_7743 ifcowl:x_max 1.2359999418258667.
+ inst:IfcWindow_7743 ifcowl:y_max -1.3739009929736312E-15.
+ inst:IfcWindow_7743 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcWindow_22344 ifcowl:x_min 8.383000373840332.
+ inst:IfcWindow_22344 ifcowl:y_min -4.136000156402588.
+ inst:IfcWindow_22344 ifcowl:z_min 3.200000047683716.
+ inst:IfcWindow_22344 ifcowl:x_max 8.800000190734863.
+ inst:IfcWindow_22344 ifcowl:y_max -3.316999912261963.
+ inst:IfcWindow_22344 ifcowl:z_max 3.9590001106262207.
+
+ inst:IfcWindow_22448 ifcowl:x_min -2.914335439641036E-16.
+ inst:IfcWindow_22448 ifcowl:y_min -6.026000022888184.
+ inst:IfcWindow_22448 ifcowl:z_min 3.200000047683716.
+ inst:IfcWindow_22448 ifcowl:x_max 0.4169999957084656.
+ inst:IfcWindow_22448 ifcowl:y_max -5.276000022888184.
+ inst:IfcWindow_22448 ifcowl:z_max 5.400000095367432.
+
+ inst:IfcWindow_7407 ifcowl:x_min 0.4169999957084656.
+ inst:IfcWindow_7407 ifcowl:y_min -0.4169999957084656.
+ inst:IfcWindow_7407 ifcowl:z_min 3.200000047683716.
+ inst:IfcWindow_7407 ifcowl:x_max 1.2359999418258667.
+ inst:IfcWindow_7407 ifcowl:y_max -1.3739009929736312E-15.
+ inst:IfcWindow_7407 ifcowl:z_max 3.9590001106262207.
+
+ inst:IfcWindow_23251 ifcowl:x_min 6.822731018066406.
+ inst:IfcWindow_23251 ifcowl:y_min -7.7472686767578125.
+ inst:IfcWindow_23251 ifcowl:z_min 6.456999778747559.
+ inst:IfcWindow_23251 ifcowl:x_max 7.995268821716309.
+ inst:IfcWindow_23251 ifcowl:y_max -6.522731304168701.
+ inst:IfcWindow_23251 ifcowl:z_max 6.634799957275391.
+
+ inst:IfcWindow_7025 ifcowl:x_min -7.355227538141662E-16.
+ inst:IfcWindow_7025 ifcowl:y_min -12.604999542236328.
+ inst:IfcWindow_7025 ifcowl:z_min 0.10000000149011612.
+ inst:IfcWindow_7025 ifcowl:x_max 0.4169999957084656.
+ inst:IfcWindow_7025 ifcowl:y_max -11.854999542236328.
+ inst:IfcWindow_7025 ifcowl:z_max 2.299999952316284.
+
+ inst:IfcWindow_7795 ifcowl:x_min 4.675000190734863.
+ inst:IfcWindow_7795 ifcowl:y_min -17.799999237060547.
+ inst:IfcWindow_7795 ifcowl:z_min 3.200000047683716.
+ inst:IfcWindow_7795 ifcowl:x_max 7.474999904632568.
+ inst:IfcWindow_7795 ifcowl:y_max -17.382999420166016.
+ inst:IfcWindow_7795 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcWindow_22032 ifcowl:x_min -7.91033905045424E-16.
+ inst:IfcWindow_22032 ifcowl:y_min -14.482999801635742.
+ inst:IfcWindow_22032 ifcowl:z_min 4.85099983215332.
+ inst:IfcWindow_22032 ifcowl:x_max 0.4169999957084656.
+ inst:IfcWindow_22032 ifcowl:y_max -13.663999557495117.
+ inst:IfcWindow_22032 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcWindow_7190 ifcowl:x_min 1.3250000476837158.
+ inst:IfcWindow_7190 ifcowl:y_min -0.4169999957084656.
+ inst:IfcWindow_7190 ifcowl:z_min 3.200000047683716.
+ inst:IfcWindow_7190 ifcowl:x_max 4.125.
+ inst:IfcWindow_7190 ifcowl:y_max -4.427014310692812E-15.
+ inst:IfcWindow_7190 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcWindow_21980 ifcowl:x_min -9.020562075079397E-16.
+ inst:IfcWindow_21980 ifcowl:y_min -17.382999420166016.
+ inst:IfcWindow_21980 ifcowl:z_min 3.200000047683716.
+ inst:IfcWindow_21980 ifcowl:x_max 0.4169999957084656.
+ inst:IfcWindow_21980 ifcowl:y_max -14.583000183105469.
+ inst:IfcWindow_21980 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcWindow_6426 ifcowl:x_min 3.5480000972747803.
+ inst:IfcWindow_6426 ifcowl:y_min -0.4169999957084656.
+ inst:IfcWindow_6426 ifcowl:z_min 0.10000000149011612.
+ inst:IfcWindow_6426 ifcowl:x_max 8.383000373840332.
+ inst:IfcWindow_6426 ifcowl:y_max -1.1421419365831298E-14.
+ inst:IfcWindow_6426 ifcowl:z_max 2.5199999809265137.
+
+ inst:IfcWindow_22084 ifcowl:x_min -7.91033905045424E-16.
+ inst:IfcWindow_22084 ifcowl:y_min -14.482999801635742.
+ inst:IfcWindow_22084 ifcowl:z_min 3.200000047683716.
+ inst:IfcWindow_22084 ifcowl:x_max 0.4169999957084656.
+ inst:IfcWindow_22084 ifcowl:y_max -13.663999557495117.
+ inst:IfcWindow_22084 ifcowl:z_max 3.9590001106262207.
+
+ inst:IfcWindow_7899 ifcowl:x_min 7.564000129699707.
+ inst:IfcWindow_7899 ifcowl:y_min -17.799999237060547.
+ inst:IfcWindow_7899 ifcowl:z_min 4.0254998207092285.
+ inst:IfcWindow_7899 ifcowl:x_max 8.383000373840332.
+ inst:IfcWindow_7899 ifcowl:y_max -17.382999420166016.
+ inst:IfcWindow_7899 ifcowl:z_max 4.7845001220703125.
+
+ inst:IfcWindow_22188 ifcowl:x_min 8.383000373840332.
+ inst:IfcWindow_22188 ifcowl:y_min -3.2170000076293945.
+ inst:IfcWindow_22188 ifcowl:z_min 3.200000047683716.
+ inst:IfcWindow_22188 ifcowl:x_max 8.800000190734863.
+ inst:IfcWindow_22188 ifcowl:y_max -0.4169999957084656.
+ inst:IfcWindow_22188 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcWindow_23162 ifcowl:x_min 0.7897311449050903.
+ inst:IfcWindow_23162 ifcowl:y_min -11.277268409729004.
+ inst:IfcWindow_23162 ifcowl:z_min 6.456999778747559.
+ inst:IfcWindow_23162 ifcowl:x_max 1.9622688293457031.
+ inst:IfcWindow_23162 ifcowl:y_max -10.05273151397705.
+ inst:IfcWindow_23162 ifcowl:z_max 6.634799957275391.
+
+ inst:IfcWindow_6921 ifcowl:x_min 8.383000373840332.
+ inst:IfcWindow_6921 ifcowl:y_min -5.945000171661377.
+ inst:IfcWindow_6921 ifcowl:z_min 0.10000000149011612.
+ inst:IfcWindow_6921 ifcowl:x_max 8.800000190734863.
+ inst:IfcWindow_6921 ifcowl:y_max -5.195000171661377.
+ inst:IfcWindow_6921 ifcowl:z_max 2.299999952316284.
+
+ inst:IfcWindow_7847 ifcowl:x_min 7.564000129699707.
+ inst:IfcWindow_7847 ifcowl:y_min -17.799999237060547.
+ inst:IfcWindow_7847 ifcowl:z_min 3.200000047683716.
+ inst:IfcWindow_7847 ifcowl:x_max 8.383000373840332.
+ inst:IfcWindow_7847 ifcowl:y_max -17.382999420166016.
+ inst:IfcWindow_7847 ifcowl:z_max 3.9590001106262207.
+
+ inst:IfcWindow_7951 ifcowl:x_min 7.564000129699707.
+ inst:IfcWindow_7951 ifcowl:y_min -17.799999237060547.
+ inst:IfcWindow_7951 ifcowl:z_min 4.85099983215332.
+ inst:IfcWindow_7951 ifcowl:x_max 8.383000373840332.
+ inst:IfcWindow_7951 ifcowl:y_max -17.382999420166016.
+ inst:IfcWindow_7951 ifcowl:z_max 5.610000133514404.

@@ -1,0 +1,394 @@
+@prefix ifcowl:  <http://www.buildingsmart-tech.org/ifcOWL/IFC2X3_TC1#> .
+@prefix inst: <http://linkedbuildingdata.net/ifc/resources86d73257/>.
+
+ inst:IfcWallStandardCase_4553 ifcowl:x_min 4.769999980926514.
+ inst:IfcWallStandardCase_4553 ifcowl:y_min -10.369999885559082.
+ inst:IfcWallStandardCase_4553 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_4553 ifcowl:x_max 6.22599983215332.
+ inst:IfcWallStandardCase_4553 ifcowl:y_max -10.246000289916992.
+ inst:IfcWallStandardCase_4553 ifcowl:z_max 2.7950000762939453.
+
+ inst:IfcWallStandardCase_4508 ifcowl:x_min 6.22599983215332.
+ inst:IfcWallStandardCase_4508 ifcowl:y_min -10.994999885559082.
+ inst:IfcWallStandardCase_4508 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_4508 ifcowl:x_max 6.349999904632568.
+ inst:IfcWallStandardCase_4508 ifcowl:y_max -8.074999809265137.
+ inst:IfcWallStandardCase_4508 ifcowl:z_max 2.7950000762939453.
+
+ inst:IfcWallStandardCase_4219 ifcowl:x_min 2.450000047683716.
+ inst:IfcWallStandardCase_4219 ifcowl:y_min -9.725000381469727.
+ inst:IfcWallStandardCase_4219 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_4219 ifcowl:x_max 2.5739998817443848.
+ inst:IfcWallStandardCase_4219 ifcowl:y_max -6.804999828338623.
+ inst:IfcWallStandardCase_4219 ifcowl:z_max 2.7950000762939453.
+
+ inst:IfcWallStandardCase_4043 ifcowl:x_min 1.7763568394002505E-15.
+ inst:IfcWallStandardCase_4043 ifcowl:y_min -17.799999237060547.
+ inst:IfcWallStandardCase_4043 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_4043 ifcowl:x_max 8.383000373840332.
+ inst:IfcWallStandardCase_4043 ifcowl:y_max -17.382999420166016.
+ inst:IfcWallStandardCase_4043 ifcowl:z_max 3.0999999046325684.
+
+ inst:IfcWallStandardCase_5598 ifcowl:x_min -5.440092820663267E-15.
+ inst:IfcWallStandardCase_5598 ifcowl:y_min -17.799999237060547.
+ inst:IfcWallStandardCase_5598 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_5598 ifcowl:x_max 0.4169999957084656.
+ inst:IfcWallStandardCase_5598 ifcowl:y_max 0.0.
+ inst:IfcWallStandardCase_5598 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_5548 ifcowl:x_min 0.0.
+ inst:IfcWallStandardCase_5548 ifcowl:y_min -17.799999237060547.
+ inst:IfcWallStandardCase_5548 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_5548 ifcowl:x_max 8.800000190734863.
+ inst:IfcWallStandardCase_5548 ifcowl:y_max -17.382999420166016.
+ inst:IfcWallStandardCase_5548 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_3999 ifcowl:x_min 8.383000373840332.
+ inst:IfcWallStandardCase_3999 ifcowl:y_min -17.799999237060547.
+ inst:IfcWallStandardCase_3999 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_3999 ifcowl:x_max 8.800000190734863.
+ inst:IfcWallStandardCase_3999 ifcowl:y_max -0.4169999957084656.
+ inst:IfcWallStandardCase_3999 ifcowl:z_max 3.0999999046325684.
+
+ inst:IfcWallStandardCase_38240 ifcowl:x_min 1.8905500173568726.
+ inst:IfcWallStandardCase_38240 ifcowl:y_min -11.205550193786621.
+ inst:IfcWallStandardCase_38240 ifcowl:z_min 5.711999893188477.
+ inst:IfcWallStandardCase_38240 ifcowl:x_max 1.9445500373840332.
+ inst:IfcWallStandardCase_38240 ifcowl:y_max -10.070449829101562.
+ inst:IfcWallStandardCase_38240 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_6080 ifcowl:x_min 4.675000190734863.
+ inst:IfcWallStandardCase_6080 ifcowl:y_min -11.133999824523926.
+ inst:IfcWallStandardCase_6080 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_6080 ifcowl:x_max 6.294000148773193.
+ inst:IfcWallStandardCase_6080 ifcowl:y_max -10.949999809265137.
+ inst:IfcWallStandardCase_6080 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_38195 ifcowl:x_min 0.8614500164985657.
+ inst:IfcWallStandardCase_38195 ifcowl:y_min -11.259550094604492.
+ inst:IfcWallStandardCase_38195 ifcowl:z_min 5.711999893188477.
+ inst:IfcWallStandardCase_38195 ifcowl:x_max 1.9445500373840332.
+ inst:IfcWallStandardCase_38195 ifcowl:y_max -11.205550193786621.
+ inst:IfcWallStandardCase_38195 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_35199 ifcowl:x_min 2.50600004196167.
+ inst:IfcWallStandardCase_35199 ifcowl:y_min -10.094051361083984.
+ inst:IfcWallStandardCase_35199 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_35199 ifcowl:x_max 4.03000020980835.
+ inst:IfcWallStandardCase_35199 ifcowl:y_max -9.970050811767578.
+ inst:IfcWallStandardCase_35199 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_38150 ifcowl:x_min 0.807449996471405.
+ inst:IfcWallStandardCase_38150 ifcowl:y_min -11.259550094604492.
+ inst:IfcWallStandardCase_38150 ifcowl:z_min 5.711999893188477.
+ inst:IfcWallStandardCase_38150 ifcowl:x_max 0.8614500164985657.
+ inst:IfcWallStandardCase_38150 ifcowl:y_max -10.124449729919434.
+ inst:IfcWallStandardCase_38150 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_31476 ifcowl:x_min 4.03000020980835.
+ inst:IfcWallStandardCase_31476 ifcowl:y_min -11.010000228881836.
+ inst:IfcWallStandardCase_31476 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_31476 ifcowl:x_max 4.182000160217285.
+ inst:IfcWallStandardCase_31476 ifcowl:y_max -6.849999904632568.
+ inst:IfcWallStandardCase_31476 ifcowl:z_max 5.695000171661377.
+
+ inst:IfcWallStandardCase_38105 ifcowl:x_min 0.807449996471405.
+ inst:IfcWallStandardCase_38105 ifcowl:y_min -10.124449729919434.
+ inst:IfcWallStandardCase_38105 ifcowl:z_min 5.711999893188477.
+ inst:IfcWallStandardCase_38105 ifcowl:x_max 1.8905500173568726.
+ inst:IfcWallStandardCase_38105 ifcowl:y_max -10.070449829101562.
+ inst:IfcWallStandardCase_38105 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_4287 ifcowl:x_min 4.182000160217285.
+ inst:IfcWallStandardCase_4287 ifcowl:y_min -8.074999809265137.
+ inst:IfcWallStandardCase_4287 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_4287 ifcowl:x_max 8.383000373840332.
+ inst:IfcWallStandardCase_4287 ifcowl:y_max -7.525000095367432.
+ inst:IfcWallStandardCase_4287 ifcowl:z_max 2.7950000762939453.
+
+ inst:IfcWallStandardCase_4868 ifcowl:x_min 0.0.
+ inst:IfcWallStandardCase_4868 ifcowl:y_min -17.799999237060547.
+ inst:IfcWallStandardCase_4868 ifcowl:z_min -1.25.
+ inst:IfcWallStandardCase_4868 ifcowl:x_max 8.383000373840332.
+ inst:IfcWallStandardCase_4868 ifcowl:y_max -17.382999420166016.
+ inst:IfcWallStandardCase_4868 ifcowl:z_max 0.0.
+
+ inst:IfcWallStandardCase_31431 ifcowl:x_min 4.618000030517578.
+ inst:IfcWallStandardCase_31431 ifcowl:y_min -10.949999809265137.
+ inst:IfcWallStandardCase_31431 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_31431 ifcowl:x_max 4.769999980926514.
+ inst:IfcWallStandardCase_31431 ifcowl:y_max -6.789999961853027.
+ inst:IfcWallStandardCase_31431 ifcowl:z_max 5.695000171661377.
+
+ inst:IfcWallStandardCase_38060 ifcowl:x_min 7.923550128936768.
+ inst:IfcWallStandardCase_38060 ifcowl:y_min -7.6755499839782715.
+ inst:IfcWallStandardCase_38060 ifcowl:z_min 5.711999893188477.
+ inst:IfcWallStandardCase_38060 ifcowl:x_max 7.977550029754639.
+ inst:IfcWallStandardCase_38060 ifcowl:y_max -6.540450096130371.
+ inst:IfcWallStandardCase_38060 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_4818 ifcowl:x_min 8.383000373840332.
+ inst:IfcWallStandardCase_4818 ifcowl:y_min -17.799999237060547.
+ inst:IfcWallStandardCase_4818 ifcowl:z_min -1.25.
+ inst:IfcWallStandardCase_4818 ifcowl:x_max 8.800000190734863.
+ inst:IfcWallStandardCase_4818 ifcowl:y_max -0.4169999957084656.
+ inst:IfcWallStandardCase_4818 ifcowl:z_max 0.0.
+
+ inst:IfcWallStandardCase_38015 ifcowl:x_min 6.8944501876831055.
+ inst:IfcWallStandardCase_38015 ifcowl:y_min -7.729549884796143.
+ inst:IfcWallStandardCase_38015 ifcowl:z_min 5.711999893188477.
+ inst:IfcWallStandardCase_38015 ifcowl:x_max 7.977550029754639.
+ inst:IfcWallStandardCase_38015 ifcowl:y_max -7.6755499839782715.
+ inst:IfcWallStandardCase_38015 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_24813 ifcowl:x_min 0.4169999957084656.
+ inst:IfcWallStandardCase_24813 ifcowl:y_min -10.369999885559082.
+ inst:IfcWallStandardCase_24813 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_24813 ifcowl:x_max 4.618000030517578.
+ inst:IfcWallStandardCase_24813 ifcowl:y_max -10.218000411987305.
+ inst:IfcWallStandardCase_24813 ifcowl:z_max 2.7950000762939453.
+
+ inst:IfcWallStandardCase_6036 ifcowl:x_min 4.675000190734863.
+ inst:IfcWallStandardCase_6036 ifcowl:y_min -6.789999961853027.
+ inst:IfcWallStandardCase_6036 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_6036 ifcowl:x_max 6.294000148773193.
+ inst:IfcWallStandardCase_6036 ifcowl:y_max -6.665999889373779.
+ inst:IfcWallStandardCase_6036 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_35497 ifcowl:x_min 7.24459981918335.
+ inst:IfcWallStandardCase_35497 ifcowl:y_min -11.550000190734863.
+ inst:IfcWallStandardCase_35497 ifcowl:z_min 2.611999988555908.
+ inst:IfcWallStandardCase_35497 ifcowl:x_max 7.368599891662598.
+ inst:IfcWallStandardCase_35497 ifcowl:y_max -8.074999809265137.
+ inst:IfcWallStandardCase_35497 ifcowl:z_max 3.0999999046325684.
+
+ inst:IfcWallStandardCase_37970 ifcowl:x_min 6.840449810028076.
+ inst:IfcWallStandardCase_37970 ifcowl:y_min -7.729549884796143.
+ inst:IfcWallStandardCase_37970 ifcowl:z_min 5.711999893188477.
+ inst:IfcWallStandardCase_37970 ifcowl:x_max 6.8944501876831055.
+ inst:IfcWallStandardCase_37970 ifcowl:y_max -6.594449996948242.
+ inst:IfcWallStandardCase_37970 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_24768 ifcowl:x_min 4.618000030517578.
+ inst:IfcWallStandardCase_24768 ifcowl:y_min -10.369999885559082.
+ inst:IfcWallStandardCase_24768 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_24768 ifcowl:x_max 4.769999980926514.
+ inst:IfcWallStandardCase_24768 ifcowl:y_max -8.074999809265137.
+ inst:IfcWallStandardCase_24768 ifcowl:z_max 2.7950000762939453.
+
+ inst:IfcWallStandardCase_35452 ifcowl:x_min 1.431399941444397.
+ inst:IfcWallStandardCase_35452 ifcowl:y_min -9.725000381469727.
+ inst:IfcWallStandardCase_35452 ifcowl:z_min 2.611999988555908.
+ inst:IfcWallStandardCase_35452 ifcowl:x_max 1.555400013923645.
+ inst:IfcWallStandardCase_35452 ifcowl:y_max -6.25.
+ inst:IfcWallStandardCase_35452 ifcowl:z_max 3.0999999046325684.
+
+ inst:IfcWallStandardCase_24723 ifcowl:x_min 2.5739998817443848.
+ inst:IfcWallStandardCase_24723 ifcowl:y_min -7.553999900817871.
+ inst:IfcWallStandardCase_24723 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_24723 ifcowl:x_max 4.03000020980835.
+ inst:IfcWallStandardCase_24723 ifcowl:y_max -7.429999828338623.
+ inst:IfcWallStandardCase_24723 ifcowl:z_max 2.7950000762939453.
+
+ inst:IfcWallStandardCase_35357 ifcowl:x_min 4.769999980926514.
+ inst:IfcWallStandardCase_35357 ifcowl:y_min -7.845384120941162.
+ inst:IfcWallStandardCase_35357 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_35357 ifcowl:x_max 6.294000148773193.
+ inst:IfcWallStandardCase_35357 ifcowl:y_max -7.721384048461914.
+ inst:IfcWallStandardCase_35357 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_37913 ifcowl:x_min 6.840449810028076.
+ inst:IfcWallStandardCase_37913 ifcowl:y_min -6.594449996948242.
+ inst:IfcWallStandardCase_37913 ifcowl:z_min 5.711999893188477.
+ inst:IfcWallStandardCase_37913 ifcowl:x_max 7.923550128936768.
+ inst:IfcWallStandardCase_37913 ifcowl:y_max -6.540450096130371.
+ inst:IfcWallStandardCase_37913 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_5992 ifcowl:x_min 6.418000221252441.
+ inst:IfcWallStandardCase_5992 ifcowl:y_min -6.25.
+ inst:IfcWallStandardCase_5992 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_5992 ifcowl:x_max 8.383000373840332.
+ inst:IfcWallStandardCase_5992 ifcowl:y_max -6.125999927520752.
+ inst:IfcWallStandardCase_5992 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_4968 ifcowl:x_min 4.182499885559082.
+ inst:IfcWallStandardCase_4968 ifcowl:y_min -8.017499923706055.
+ inst:IfcWallStandardCase_4968 ifcowl:z_min -1.25.
+ inst:IfcWallStandardCase_4968 ifcowl:x_max 8.383000373840332.
+ inst:IfcWallStandardCase_4968 ifcowl:y_max -7.582499980926514.
+ inst:IfcWallStandardCase_4968 ifcowl:z_max 0.0.
+
+ inst:IfcWallStandardCase_4918 ifcowl:x_min 5.551115123125783E-16.
+ inst:IfcWallStandardCase_4918 ifcowl:y_min -17.382999420166016.
+ inst:IfcWallStandardCase_4918 ifcowl:z_min -1.25.
+ inst:IfcWallStandardCase_4918 ifcowl:x_max 0.4169999957084656.
+ inst:IfcWallStandardCase_4918 ifcowl:y_max -0.4169999957084656.
+ inst:IfcWallStandardCase_4918 ifcowl:z_max 0.0.
+
+ inst:IfcWallStandardCase_5948 ifcowl:x_min 6.294000148773193.
+ inst:IfcWallStandardCase_5948 ifcowl:y_min -11.550000190734863.
+ inst:IfcWallStandardCase_5948 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_5948 ifcowl:x_max 6.418000221252441.
+ inst:IfcWallStandardCase_5948 ifcowl:y_max -6.125999927520752.
+ inst:IfcWallStandardCase_5948 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_24680 ifcowl:x_min 4.03000020980835.
+ inst:IfcWallStandardCase_24680 ifcowl:y_min -9.725000381469727.
+ inst:IfcWallStandardCase_24680 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_24680 ifcowl:x_max 4.182000160217285.
+ inst:IfcWallStandardCase_24680 ifcowl:y_max -7.581999778747559.
+ inst:IfcWallStandardCase_24680 ifcowl:z_max 3.0999999046325684.
+
+ inst:IfcWallStandardCase_5903 ifcowl:x_min 6.294000148773193.
+ inst:IfcWallStandardCase_5903 ifcowl:y_min -11.673999786376953.
+ inst:IfcWallStandardCase_5903 ifcowl:z_min 2.611999988555908.
+ inst:IfcWallStandardCase_5903 ifcowl:x_max 8.383000373840332.
+ inst:IfcWallStandardCase_5903 ifcowl:y_max -11.550000190734863.
+ inst:IfcWallStandardCase_5903 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_5775 ifcowl:x_min 2.50600004196167.
+ inst:IfcWallStandardCase_5775 ifcowl:y_min -6.849999904632568.
+ inst:IfcWallStandardCase_5775 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_5775 ifcowl:x_max 4.125.
+ inst:IfcWallStandardCase_5775 ifcowl:y_max -6.665999889373779.
+ inst:IfcWallStandardCase_5775 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_5106 ifcowl:x_min 4.182499885559082.
+ inst:IfcWallStandardCase_5106 ifcowl:y_min -9.782500267028809.
+ inst:IfcWallStandardCase_5106 ifcowl:z_min -1.25.
+ inst:IfcWallStandardCase_5106 ifcowl:x_max 4.617499828338623.
+ inst:IfcWallStandardCase_5106 ifcowl:y_max -8.017499923706055.
+ inst:IfcWallStandardCase_5106 ifcowl:z_max -0.12700000405311584.
+
+ inst:IfcWallStandardCase_5859 ifcowl:x_min 2.50600004196167.
+ inst:IfcWallStandardCase_5859 ifcowl:y_min -11.133999824523926.
+ inst:IfcWallStandardCase_5859 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_5859 ifcowl:x_max 4.125.
+ inst:IfcWallStandardCase_5859 ifcowl:y_max -11.010000228881836.
+ inst:IfcWallStandardCase_5859 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_5731 ifcowl:x_min 0.4169999957084656.
+ inst:IfcWallStandardCase_5731 ifcowl:y_min -11.673999786376953.
+ inst:IfcWallStandardCase_5731 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_5731 ifcowl:x_max 2.381999969482422.
+ inst:IfcWallStandardCase_5731 ifcowl:y_max -11.550000190734863.
+ inst:IfcWallStandardCase_5731 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_4131 ifcowl:x_min 2.4760000705718994.
+ inst:IfcWallStandardCase_4131 ifcowl:y_min -4.0.
+ inst:IfcWallStandardCase_4131 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_4131 ifcowl:x_max 2.5999999046325684.
+ inst:IfcWallStandardCase_4131 ifcowl:y_max -0.4169999957084656.
+ inst:IfcWallStandardCase_4131 ifcowl:z_max 2.7950000762939453.
+
+ inst:IfcWallStandardCase_24596 ifcowl:x_min 4.03000020980835.
+ inst:IfcWallStandardCase_24596 ifcowl:y_min -7.581999778747559.
+ inst:IfcWallStandardCase_24596 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_24596 ifcowl:x_max 8.383000373840332.
+ inst:IfcWallStandardCase_24596 ifcowl:y_max -7.429999828338623.
+ inst:IfcWallStandardCase_24596 ifcowl:z_max 2.7950000762939453.
+
+ inst:IfcWallStandardCase_5057 ifcowl:x_min 0.4169999957084656.
+ inst:IfcWallStandardCase_5057 ifcowl:y_min -10.217499732971191.
+ inst:IfcWallStandardCase_5057 ifcowl:z_min -1.25.
+ inst:IfcWallStandardCase_5057 ifcowl:x_max 4.617499828338623.
+ inst:IfcWallStandardCase_5057 ifcowl:y_max -9.782500267028809.
+ inst:IfcWallStandardCase_5057 ifcowl:z_max 0.0.
+
+ inst:IfcWallStandardCase_3797 ifcowl:x_min -8.881784197001252E-16.
+ inst:IfcWallStandardCase_3797 ifcowl:y_min -0.4169999957084656.
+ inst:IfcWallStandardCase_3797 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_3797 ifcowl:x_max 8.800000190734863.
+ inst:IfcWallStandardCase_3797 ifcowl:y_max 1.1879386363489175E-14.
+ inst:IfcWallStandardCase_3797 ifcowl:z_max 3.0999999046325684.
+
+ inst:IfcWallStandardCase_22798 ifcowl:x_min -1.0269562977782698E-15.
+ inst:IfcWallStandardCase_22798 ifcowl:y_min -17.382999420166016.
+ inst:IfcWallStandardCase_22798 ifcowl:z_min 6.0.
+ inst:IfcWallStandardCase_22798 ifcowl:x_max 0.4169999957084656.
+ inst:IfcWallStandardCase_22798 ifcowl:y_max -0.4169999957084656.
+ inst:IfcWallStandardCase_22798 ifcowl:z_max 6.609000205993652.
+
+ inst:IfcWallStandardCase_5498 ifcowl:x_min 8.383000373840332.
+ inst:IfcWallStandardCase_5498 ifcowl:y_min -17.799999237060547.
+ inst:IfcWallStandardCase_5498 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_5498 ifcowl:x_max 8.800000190734863.
+ inst:IfcWallStandardCase_5498 ifcowl:y_max 0.0.
+ inst:IfcWallStandardCase_5498 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_22753 ifcowl:x_min 1.7763568394002505E-15.
+ inst:IfcWallStandardCase_22753 ifcowl:y_min -17.799999237060547.
+ inst:IfcWallStandardCase_22753 ifcowl:z_min 6.0.
+ inst:IfcWallStandardCase_22753 ifcowl:x_max 8.383000373840332.
+ inst:IfcWallStandardCase_22753 ifcowl:y_max -17.382999420166016.
+ inst:IfcWallStandardCase_22753 ifcowl:z_max 6.609000205993652.
+
+ inst:IfcWallStandardCase_5448 ifcowl:x_min 0.0.
+ inst:IfcWallStandardCase_5448 ifcowl:y_min -0.4169999957084656.
+ inst:IfcWallStandardCase_5448 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_5448 ifcowl:x_max 8.800000190734863.
+ inst:IfcWallStandardCase_5448 ifcowl:y_max 8.326672684688674E-17.
+ inst:IfcWallStandardCase_5448 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_5687 ifcowl:x_min 2.381999969482422.
+ inst:IfcWallStandardCase_5687 ifcowl:y_min -11.673999786376953.
+ inst:IfcWallStandardCase_5687 ifcowl:z_min 3.0999999046325684.
+ inst:IfcWallStandardCase_5687 ifcowl:x_max 2.50600004196167.
+ inst:IfcWallStandardCase_5687 ifcowl:y_max -6.25.
+ inst:IfcWallStandardCase_5687 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_4399 ifcowl:x_min 0.4169999957084656.
+ inst:IfcWallStandardCase_4399 ifcowl:y_min -10.274999618530273.
+ inst:IfcWallStandardCase_4399 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_4399 ifcowl:x_max 4.618000030517578.
+ inst:IfcWallStandardCase_4399 ifcowl:y_max -9.725000381469727.
+ inst:IfcWallStandardCase_4399 ifcowl:z_max 2.7950000762939453.
+
+ inst:IfcWallStandardCase_4087 ifcowl:x_min -1.8596235662471372E-15.
+ inst:IfcWallStandardCase_4087 ifcowl:y_min -17.382999420166016.
+ inst:IfcWallStandardCase_4087 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_4087 ifcowl:x_max 0.4169999957084656.
+ inst:IfcWallStandardCase_4087 ifcowl:y_max -0.4169999957084656.
+ inst:IfcWallStandardCase_4087 ifcowl:z_max 3.0999999046325684.
+
+ inst:IfcWallStandardCase_22708 ifcowl:x_min 8.383000373840332.
+ inst:IfcWallStandardCase_22708 ifcowl:y_min -17.799999237060547.
+ inst:IfcWallStandardCase_22708 ifcowl:z_min 6.0.
+ inst:IfcWallStandardCase_22708 ifcowl:x_max 8.800000190734863.
+ inst:IfcWallStandardCase_22708 ifcowl:y_max -0.4169999957084656.
+ inst:IfcWallStandardCase_22708 ifcowl:z_max 6.609000205993652.
+
+ inst:IfcWallStandardCase_4643 ifcowl:x_min -8.881784197001252E-16.
+ inst:IfcWallStandardCase_4643 ifcowl:y_min -0.4169999957084656.
+ inst:IfcWallStandardCase_4643 ifcowl:z_min -1.25.
+ inst:IfcWallStandardCase_4643 ifcowl:x_max 8.800000190734863.
+ inst:IfcWallStandardCase_4643 ifcowl:y_max 1.8596235662471372E-15.
+ inst:IfcWallStandardCase_4643 ifcowl:z_max 0.0.
+
+ inst:IfcWallStandardCase_5642 ifcowl:x_min 0.4169999957084656.
+ inst:IfcWallStandardCase_5642 ifcowl:y_min -6.25.
+ inst:IfcWallStandardCase_5642 ifcowl:z_min 2.611999988555908.
+ inst:IfcWallStandardCase_5642 ifcowl:x_max 2.50600004196167.
+ inst:IfcWallStandardCase_5642 ifcowl:y_max -6.125999927520752.
+ inst:IfcWallStandardCase_5642 ifcowl:z_max 6.0.
+
+ inst:IfcWallStandardCase_22663 ifcowl:x_min -8.881784197001252E-16.
+ inst:IfcWallStandardCase_22663 ifcowl:y_min -0.4169999957084656.
+ inst:IfcWallStandardCase_22663 ifcowl:z_min 6.0.
+ inst:IfcWallStandardCase_22663 ifcowl:x_max 8.800000190734863.
+ inst:IfcWallStandardCase_22663 ifcowl:y_max -5.551115123125783E-17.
+ inst:IfcWallStandardCase_22663 ifcowl:z_max 6.609000205993652.
+
+ inst:IfcWallStandardCase_4598 ifcowl:x_min 6.199999809265137.
+ inst:IfcWallStandardCase_4598 ifcowl:y_min -17.382999420166016.
+ inst:IfcWallStandardCase_4598 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_4598 ifcowl:x_max 6.323999881744385.
+ inst:IfcWallStandardCase_4598 ifcowl:y_max -13.800000190734863.
+ inst:IfcWallStandardCase_4598 ifcowl:z_max 2.7950000762939453.
+
+ inst:IfcWallStandardCase_4465 ifcowl:x_min 4.125.
+ inst:IfcWallStandardCase_4465 ifcowl:y_min -10.0.
+ inst:IfcWallStandardCase_4465 ifcowl:z_min 0.0.
+ inst:IfcWallStandardCase_4465 ifcowl:x_max 4.675000190734863.
+ inst:IfcWallStandardCase_4465 ifcowl:y_max -7.800000190734863.
+ inst:IfcWallStandardCase_4465 ifcowl:z_max 2.7950000762939453.
