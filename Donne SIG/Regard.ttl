@@ -1,0 +1,253 @@
+@prefix gn: <http://www.geonames.org/ontology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wgs: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wgs: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix obda: <https://w3id.org/obda/vocabulary#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ubmo: <http://w3id.org/UrbanAndBuildingMultiscaleOntology#> .
+@prefix inst: <http://w3id.org/UrbanAndBuildingMultiscaleOntology/> .
+@base <http://w3id.org/UrbanAndBuildingMultiscaleOntology> .
+
+
+
+
+inst:Regard1 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Visite" ;
+    ubmo:matériauRegard "Béton" ;
+    ubmo:diamètreRegard 0.5 ;
+    ubmo:profondeurDeBranchement 3 ;
+    ubmo:etatRegard "Bon" ;
+    ubmo:dateInstallation "2020-01-15"^^xsd:date ;
+    ubmo:dateDerniereInspection "2022-06-20"^^xsd:date ;
+    ubmo:accesRegard "Couvercle lourd" ;
+    ubmo:connectiviteRegard "Tuyau principal" ;
+    ubmo:fonctionRegard "Inspection" ;
+    ubmo:geoForme "POINT(0.380167 46.625259)" .
+
+inst:Regard2 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 2 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.381167 46.626259)" .
+
+inst:Regard15 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 55 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.374167 46.619259)" .
+
+inst:Regard16 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 88 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.373167 46.618259)" .
+
+inst:Regard17 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 77 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.372167 46.617259)" .
+
+inst:Regard18 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 20 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.375167 46.620259)" .
+	
+inst:Regard3 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 45 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.376167 46.621259)" .
+	
+inst:Regard4 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 2 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.377167 46.622259)" .
+	
+inst:Regard5 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 82 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.378167 46.623259)" .
+	
+inst:Regard6 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 12 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.379167 46.624259)" .
+	
+inst:Regard7 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 22 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.385167 46.630259)" .
+	
+inst:Regard8 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 2 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.386167 46.631259)" .
+	
+inst:Regard9 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 72 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.387167 46.632259)" .
+	
+inst:Regard10 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 2 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.388167 46.633259)" .
+	
+inst:Regard11 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 50 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.389167 46.634259)" .
+	
+inst:Regard12 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 34 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.390167 46.635259)" .
+	
+inst:Regard13 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 62 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.391167 46.636259)" .
+	
+inst:Regard14 rdf:type ubmo:Regard ;
+    ubmo:typeRegard "Branchement" ;
+    ubmo:matériauRegard "PVC" ;
+    ubmo:diamètreRegard 0.3 ;
+    ubmo:profondeurDeBranchement 61 ;
+    ubmo:etatRegard "Réparation nécessaire" ;
+    ubmo:dateInstallation "2018-05-10"^^xsd:date ;
+    ubmo:dateDerniereInspection "2021-09-12"^^xsd:date ;
+    ubmo:accesRegard "Couvercle verrouillable" ;
+    ubmo:connectiviteRegard "Tuyau secondaire" ;
+    ubmo:fonctionRegard  "Ventilation" ;
+    ubmo:geoForme "POINT(0.392167 46.637259)" .
