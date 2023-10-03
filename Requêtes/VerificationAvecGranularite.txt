@@ -1,0 +1,180 @@
+START QUERY Rq1
+    PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    PREFIX ubmo: <http://w3id.org/UrbanAndBuildingMultiscaleOntology#>
+    PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
+SELECT ?res 
+From<http://w3id.org/UrbanAndBuildingMultiscaleOntology/
+NiveauAbstQuartier>
+WHERE { 
+?res rdf:type ?y
+Value ?y { ubmo:ReseauAssainissement ubmo:ReseauUnitaire ubmo:ReseauEauPotable } 
+?res ubmo:pente ?x. 
+ Filter (?x < "1") } 
+
+END QUERY
+
+START QUERY Rq2
+    PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    PREFIX ubmo: <http://w3id.org/UrbanAndBuildingMultiscaleOntology#>
+    PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
+SELECT ?bat 
+FROM <http://w3id.org/UrbanAndBuildingMultiscaleOntology/NiveauAbstQuartier>
+WHERE{
+ ?bat rdf:type ubmo:Batiment.
+ ?bat ubmo:geoForme ?wkt3.
+  ?bat ubmo:geoPoint ?loc2.
+ ?bat ubmo:codpar ?val3.
+ ?res rdf:type ubmo:ReseauAssainissement.
+ ?res ubmo:geoForme ?wkt4.
+ ?quar rdf:type ubmo:Quartier.
+ ?quar ubmo:geoForme ?wkt5.
+ Filter (?loc1 = ?loc2)
+ BIND(geof:sfContains(?wkt5, ?wkt3) as ?reslt2).
+ BIND(geof:sfContains(?wkt5, ?wkt4) as ?reslt3).
+ BIND(geof:sfTouches(?wkt1, ?wkt4) as ?reslt4).
+ FILTER (?reslt2 = true).
+ FILTER (?reslt3 = true).
+ FILTER (?reslt4 = false).
+ {
+  SELECT ?fb ?cp ?val2 
+  FROM <http://w3id.org/UrbanAndBuildingMultiscaleOntology/NiveauAbstCommune>
+  WHERE { 
+   ?sys rdf:type ubmo:SystemeEauUsee.
+   ?sys ubmo:geoForme ?shape1.
+   ?fb rdf:type ubmo:FoncierBati.
+   ?fb ubmo:geoForme ?shape2.
+   ?fb ubmo:codpar ?val2.
+   FILTER (geof:distance(?shape1, ?shape2, uom:metre) < 50) 
+  } 
+ }
+ FILTER(?val3 = ?val2).
+ {
+  SELECT ?blg ?u ?wkt1 ?loc1
+  FROM <http://w3id.org/UrbanAndBuildingMultiscaleOntology/NiveauAbstBatiment>
+  WHERE { 
+ ?blg rdf:type ubmo:IfcBuilding.
+ ?blg geo:hasGeometry ?geom. 
+ ?geom geo:asWKT ?wkt. 
+ ?blg ubmo:geoPoint ?loc1.
+ 
+ ?u rdf:type ubmo:IfcFlowSegment. 
+ ?u ubmo:objectType ?val1.
+ ?u geo:hasGeometry ?geom1. 
+ ?geom1 geo:asWKT ?wkt1. 
+ 
+ # Condition pour le segment de flux sortant horizontalement
+ ?u ubmo:orientation "horizontal".
+ ?u ubmo:isexternal "true".
+ 
+ # Condition pour s'assurer que le bâtiment ne contient pas de dispositif de traitement des déchets
+ MINUS { ?blg ubmo:ifcRelContainedInSpatialStructure ?device. 
+     ?device rdf:type ubmo:IfcFlowTreatmentDevice. }
+
+ FILTER regex (str(?val1), "Waste") .
+ BIND(geof:sfCrosses(?wkt, ?wkt1) as ?reslt1).
+ BIND(ext:area(?wkt1) as ?erea) 
+ FILTER(?erea > 1)  
+ FILTER (?reslt1 = true) 
+}   
+} 
+ }
+}
+END QUERY
+
+START QUERY Rq5
+    PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    PREFIX ubmo: <http://w3id.org/UrbanAndBuildingMultiscaleOntology#>
+    PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
+SELECT ?par ?res
+From<http://w3id.org/UrbanAndBuildingMultiscaleOntology/
+NiveauAbstQuartier> 
+WHERE {
+{ SELECT ?pc ?codsec
+From<http://w3id.org/UrbanAndBuildingMultiscaleOntology/
+NiveauAbstCommune> 
+WHERE {
+{?su owl:instanceOf ubmo:SystemeUnitaire.
+?su ubmo:geoForme ?wkt1.
+?pc owl:instanceOf ubmo:Parcellaire.
+?pc ubmo:geoForme ?wkt2.
+?pc ubmo:codsec ?codsec.
+bind (geof:sfContains(?wkt2, ?wkt1) as ?reslt1).
+filter(?reslt1 = true). }
+  Union {
+?su owl:instanceOf ubmo:SystemeUnitaire.
+?su ubmo:geoForme ?wkt1.
+?pc owl:instanceOf ubmo:Parcellaire.
+?pc ubmo:geoForme ?wkt2.
+?pc ubmo:codsec ?codsec.
+bind (geof:sfCrosses(?wkt1, ?wkt2) as ?reslt2).
+filter(?reslt2 = true). }}}
+
+  {?res owl:instanceOf ubmo:ReseauUnitaire.
+  ?res ubmo:geoForme ?wkt1.
+  ?par owl:instanceOf ubmo:CadastreParcelle.
+  ?par ubmo:geoForme ?wkt2. 
+ ?par ubmo:codsec ?val.
+ Filter (?val = “?codsec”)
+  bind (geo:sfContains (?wkt2, ?wkt1) as ?reslt1).
+  filter(?reslt1 = true). }
+  Union {
+  ?res owl:instanceOf ubmo:ReseauUnitaire.
+  ?res ubmo:geoForme ?wkt1.
+  ?par owl:instanceOf ubmo:CadastreParcelle.
+  ?par ubmo:codsec ?val.
+  Filter (?val = “?codsec”) . 
+ ?par ubmo:geoForme ?wkt2. 
+ bind (geo:sfCrosses(?wkt1, ?wkt2) as ?reslt2).
+  filter(?reslt2 = true). 
+		}
+	} 
+}
+END QUERY
+
+START QUERY Rq7
+    PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    PREFIX ubmo: <http://w3id.org/UrbanAndBuildingMultiscaleOntology#>
+    PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
+SELECT ?blg ?u ?w1 ?u1
+WHERE {
+{SELECT ?blg ?u 
+From<http://w3id.org/UrbanAndBuildingMultiscaleOntology/NiveauAbstBatiment> 
+WHERE {  
+  ?blg rdf:type ubmo:IfcBuilding. 
+  ?blg geo:hasGeometry ?geom. 
+  ?geom geo:asWKT ?wkt. 
+  ?w rdf:type ubmo:IfcFlowTerminal. 
+  ?w ubmo:connectsPortToElement ?y. 
+  ?y rdf:type ubmo:IfcDistributionPort.  
+  ?y ubmo:connectsPorts ?z. 
+  ?z rdf:type ubmo:IfcDistributionPort.  
+  ?z ubmo:invConnectsPortToElement ?u. 
+  ?u rdf:type ubmo:IfcFlowSegment. 
+  ?u geo:hasGeometry ?geom1. 
+  ?geom1 geo:asWKT ?wkt1. 
+  BIND(geof:sfContains(?wkt, ?wkt1) as ?reslt) 
+  FILTER(?reslt = False) 
+  } } 
+UNION
+{
+SELECT ?w1 ?u1 
+From<http://w3id.org/UrbanAndBuildingMultiscaleOntology/NiveauAbstBatiment> 
+WHERE {  
+  ?w1 rdf:type ubmo:IfcFlowTerminal. 
+  ?w1 ubmo:connectsPortToElement ?y1. 
+  ?y1 rdf:type ubmo:IfcDistributionPort.  
+  ?y1 ubmo:connectsPorts ?z1. 
+  ?z1 rdf:type ubmo:IfcDistributionPort.  
+  ?z1 ubmo:invConnectsPortToElement ?u1. 
+  ?u1 rdf:type ubmo:IfcFlowSegment. 
+  ?u1 geo:hasGeometry ?geom2. 
+  ?geom2 geo:asWKT ?wkt2. 
+  BIND(ext:area(?wkt2) as ?erea) 
+  FILTER(?erea > 1)   } 
+   } 
+}
+END QUERY
