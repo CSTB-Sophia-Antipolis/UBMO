@@ -1,0 +1,352 @@
+@prefix ifcowl:  <http://www.buildingsmart-tech.org/ifcOWL/IFC2X3_TC1#> .
+@prefix inst: <http://linkedbuildingdata.net/ifc/resources86d73257/>.
+
+ inst:IfcOpeningElement_16050 ifcowl:x_min 2.381999969482422.
+ inst:IfcOpeningElement_16050 ifcowl:y_min -9.870051383972168.
+ inst:IfcOpeningElement_16050 ifcowl:z_min 3.0999999046325684.
+ inst:IfcOpeningElement_16050 ifcowl:x_max 2.50600004196167.
+ inst:IfcOpeningElement_16050 ifcowl:y_max -9.006051063537598.
+ inst:IfcOpeningElement_16050 ifcowl:z_max 5.131999969482422.
+
+ inst:IfcOpeningElement_15112 ifcowl:x_min 2.15478777885437.
+ inst:IfcOpeningElement_15112 ifcowl:y_min -6.665999889373779.
+ inst:IfcOpeningElement_15112 ifcowl:z_min 0.18063749372959137.
+ inst:IfcOpeningElement_15112 ifcowl:x_max 2.9166877269744873.
+ inst:IfcOpeningElement_15112 ifcowl:y_max -6.165050029754639.
+ inst:IfcOpeningElement_15112 ifcowl:z_max 1.9809499979019165.
+
+ inst:IfcOpeningElement_7729 ifcowl:x_min 0.4169999957084656.
+ inst:IfcOpeningElement_7729 ifcowl:y_min -0.4169999957084656.
+ inst:IfcOpeningElement_7729 ifcowl:z_min 4.85099983215332.
+ inst:IfcOpeningElement_7729 ifcowl:x_max 1.2359999418258667.
+ inst:IfcOpeningElement_7729 ifcowl:y_max -1.1102230246251565E-16.
+ inst:IfcOpeningElement_7729 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcOpeningElement_22330 ifcowl:x_min 8.383000373840332.
+ inst:IfcOpeningElement_22330 ifcowl:y_min -4.136000156402588.
+ inst:IfcOpeningElement_22330 ifcowl:z_min 3.200000047683716.
+ inst:IfcOpeningElement_22330 ifcowl:x_max 8.800000190734863.
+ inst:IfcOpeningElement_22330 ifcowl:y_max -3.316999912261963.
+ inst:IfcOpeningElement_22330 ifcowl:z_max 3.9590001106262207.
+
+ inst:IfcOpeningElement_22018 ifcowl:x_min -2.0539125955565396E-15.
+ inst:IfcOpeningElement_22018 ifcowl:y_min -14.482999801635742.
+ inst:IfcOpeningElement_22018 ifcowl:z_min 4.85099983215332.
+ inst:IfcOpeningElement_22018 ifcowl:x_max 0.4169999957084656.
+ inst:IfcOpeningElement_22018 ifcowl:y_max -13.663999557495117.
+ inst:IfcOpeningElement_22018 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcOpeningElement_21915 ifcowl:x_min 5.3520002365112305.
+ inst:IfcOpeningElement_21915 ifcowl:y_min -17.799999237060547.
+ inst:IfcOpeningElement_21915 ifcowl:z_min 0.0.
+ inst:IfcOpeningElement_21915 ifcowl:x_max 6.164999961853027.
+ inst:IfcOpeningElement_21915 ifcowl:y_max -17.382999420166016.
+ inst:IfcOpeningElement_21915 ifcowl:z_max 2.4200000762939453.
+
+ inst:IfcOpeningElement_6743 ifcowl:x_min 6.5503158452884236E-15.
+ inst:IfcOpeningElement_6743 ifcowl:y_min -2.246999979019165.
+ inst:IfcOpeningElement_6743 ifcowl:z_min 4.440892098500626E-16.
+ inst:IfcOpeningElement_6743 ifcowl:x_max 0.4169999957084656.
+ inst:IfcOpeningElement_6743 ifcowl:y_max -0.996999979019165.
+ inst:IfcOpeningElement_6743 ifcowl:z_max 2.009999990463257.
+
+ inst:IfcOpeningElement_7063 ifcowl:x_min 1.3250000476837158.
+ inst:IfcOpeningElement_7063 ifcowl:y_min -0.4169999957084656.
+ inst:IfcOpeningElement_7063 ifcowl:z_min 3.200000047683716.
+ inst:IfcOpeningElement_7063 ifcowl:x_max 4.125.
+ inst:IfcOpeningElement_7063 ifcowl:y_max 1.1102230246251565E-16.
+ inst:IfcOpeningElement_7063 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcOpeningElement_12985 ifcowl:x_min 3.7517876625061035.
+ inst:IfcOpeningElement_12985 ifcowl:y_min -11.133999824523926.
+ inst:IfcOpeningElement_12985 ifcowl:z_min 0.18063749372959137.
+ inst:IfcOpeningElement_12985 ifcowl:x_max 4.513687610626221.
+ inst:IfcOpeningElement_12985 ifcowl:y_max -10.633049964904785.
+ inst:IfcOpeningElement_12985 ifcowl:z_max 1.9809499979019165.
+
+ inst:IfcOpeningElement_6517 ifcowl:x_min 0.4169999957084656.
+ inst:IfcOpeningElement_6517 ifcowl:y_min -17.799999237060547.
+ inst:IfcOpeningElement_6517 ifcowl:z_min 0.10000000149011612.
+ inst:IfcOpeningElement_6517 ifcowl:x_max 5.251999855041504.
+ inst:IfcOpeningElement_6517 ifcowl:y_max -17.382999420166016.
+ inst:IfcOpeningElement_6517 ifcowl:z_max 2.5199999809265137.
+
+ inst:IfcOpeningElement_7833 ifcowl:x_min 7.564000129699707.
+ inst:IfcOpeningElement_7833 ifcowl:y_min -17.799999237060547.
+ inst:IfcOpeningElement_7833 ifcowl:z_min 3.200000047683716.
+ inst:IfcOpeningElement_7833 ifcowl:x_max 8.383000373840332.
+ inst:IfcOpeningElement_7833 ifcowl:y_max -17.382999420166016.
+ inst:IfcOpeningElement_7833 ifcowl:z_max 3.9590001106262207.
+
+ inst:IfcOpeningElement_22434 ifcowl:x_min -1.4432899320127035E-15.
+ inst:IfcOpeningElement_22434 ifcowl:y_min -6.026000022888184.
+ inst:IfcOpeningElement_22434 ifcowl:z_min 3.200000047683716.
+ inst:IfcOpeningElement_22434 ifcowl:x_max 0.4169999957084656.
+ inst:IfcOpeningElement_22434 ifcowl:y_max -5.276000022888184.
+ inst:IfcOpeningElement_22434 ifcowl:z_max 5.400000095367432.
+
+ inst:IfcOpeningElement_8155 ifcowl:x_min 2.450000047683716.
+ inst:IfcOpeningElement_8155 ifcowl:y_min -8.51099967956543.
+ inst:IfcOpeningElement_8155 ifcowl:z_min 2.220446049250313E-16.
+ inst:IfcOpeningElement_8155 ifcowl:x_max 2.5739998817443848.
+ inst:IfcOpeningElement_8155 ifcowl:y_max -7.749000072479248.
+ inst:IfcOpeningElement_8155 ifcowl:z_max 2.0320000648498535.
+
+ inst:IfcOpeningElement_22122 ifcowl:x_min -7.771561172376096E-16.
+ inst:IfcOpeningElement_22122 ifcowl:y_min -14.482999801635742.
+ inst:IfcOpeningElement_22122 ifcowl:z_min 4.0254998207092285.
+ inst:IfcOpeningElement_22122 ifcowl:x_max 0.4169999957084656.
+ inst:IfcOpeningElement_22122 ifcowl:y_max -13.663999557495117.
+ inst:IfcOpeningElement_22122 ifcowl:z_max 4.7845001220703125.
+
+ inst:IfcOpeningElement_7937 ifcowl:x_min 7.564000129699707.
+ inst:IfcOpeningElement_7937 ifcowl:y_min -17.799999237060547.
+ inst:IfcOpeningElement_7937 ifcowl:z_min 4.85099983215332.
+ inst:IfcOpeningElement_7937 ifcowl:x_max 8.383000373840332.
+ inst:IfcOpeningElement_7937 ifcowl:y_max -17.382999420166016.
+ inst:IfcOpeningElement_7937 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcOpeningElement_22533 ifcowl:x_min 0.8614500164985657.
+ inst:IfcOpeningElement_22533 ifcowl:y_min -11.205550193786621.
+ inst:IfcOpeningElement_22533 ifcowl:z_min 6.0.
+ inst:IfcOpeningElement_22533 ifcowl:x_max 1.8905500173568726.
+ inst:IfcOpeningElement_22533 ifcowl:y_max -10.124449729919434.
+ inst:IfcOpeningElement_22533 ifcowl:z_max 6.456999778747559.
+
+ inst:IfcOpeningElement_7781 ifcowl:x_min 4.675000190734863.
+ inst:IfcOpeningElement_7781 ifcowl:y_min -17.799999237060547.
+ inst:IfcOpeningElement_7781 ifcowl:z_min 3.200000047683716.
+ inst:IfcOpeningElement_7781 ifcowl:x_max 7.474999904632568.
+ inst:IfcOpeningElement_7781 ifcowl:y_max -17.382999420166016.
+ inst:IfcOpeningElement_7781 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcOpeningElement_7497 ifcowl:x_min 0.4169999957084656.
+ inst:IfcOpeningElement_7497 ifcowl:y_min -0.4169999957084656.
+ inst:IfcOpeningElement_7497 ifcowl:z_min 4.0254998207092285.
+ inst:IfcOpeningElement_7497 ifcowl:x_max 1.2359999418258667.
+ inst:IfcOpeningElement_7497 ifcowl:y_max -1.3877787807814457E-15.
+ inst:IfcOpeningElement_7497 ifcowl:z_max 4.7845001220703125.
+
+ inst:IfcOpeningElement_16101 ifcowl:x_min 6.294000148773193.
+ inst:IfcOpeningElement_16101 ifcowl:y_min -8.8093843460083.
+ inst:IfcOpeningElement_16101 ifcowl:z_min 3.0999999046325684.
+ inst:IfcOpeningElement_16101 ifcowl:x_max 6.418000221252441.
+ inst:IfcOpeningElement_16101 ifcowl:y_max -7.9453840255737305.
+ inst:IfcOpeningElement_16101 ifcowl:z_max 5.131999969482422.
+
+ inst:IfcOpeningElement_22546 ifcowl:x_min 6.8944501876831055.
+ inst:IfcOpeningElement_22546 ifcowl:y_min -7.6755499839782715.
+ inst:IfcOpeningElement_22546 ifcowl:z_min 6.0.
+ inst:IfcOpeningElement_22546 ifcowl:x_max 7.923550128936768.
+ inst:IfcOpeningElement_22546 ifcowl:y_max -6.594449996948242.
+ inst:IfcOpeningElement_22546 ifcowl:z_max 6.456999778747559.
+
+ inst:IfcOpeningElement_14403 ifcowl:x_min 4.323787689208984.
+ inst:IfcOpeningElement_14403 ifcowl:y_min -6.665999889373779.
+ inst:IfcOpeningElement_14403 ifcowl:z_min 0.18063749372959137.
+ inst:IfcOpeningElement_14403 ifcowl:x_max 5.085687637329102.
+ inst:IfcOpeningElement_14403 ifcowl:y_max -6.165050029754639.
+ inst:IfcOpeningElement_14403 ifcowl:z_max 1.9809499979019165.
+
+ inst:IfcOpeningElement_22506 ifcowl:x_min 0.8614500164985657.
+ inst:IfcOpeningElement_22506 ifcowl:y_min -11.205550193786621.
+ inst:IfcOpeningElement_22506 ifcowl:z_min 4.933000087738037.
+ inst:IfcOpeningElement_22506 ifcowl:x_max 1.8905500173568726.
+ inst:IfcOpeningElement_22506 ifcowl:y_max -10.124449729919434.
+ inst:IfcOpeningElement_22506 ifcowl:z_max 7.980999946594238.
+
+ inst:IfcOpeningElement_13694 ifcowl:x_min 5.920787811279297.
+ inst:IfcOpeningElement_13694 ifcowl:y_min -11.133999824523926.
+ inst:IfcOpeningElement_13694 ifcowl:z_min 0.18063749372959137.
+ inst:IfcOpeningElement_13694 ifcowl:x_max 6.682687759399414.
+ inst:IfcOpeningElement_13694 ifcowl:y_max -10.633049964904785.
+ inst:IfcOpeningElement_13694 ifcowl:z_max 1.9809499979019165.
+
+ inst:IfcOpeningElement_7885 ifcowl:x_min 7.564000129699707.
+ inst:IfcOpeningElement_7885 ifcowl:y_min -17.799999237060547.
+ inst:IfcOpeningElement_7885 ifcowl:z_min 4.0254998207092285.
+ inst:IfcOpeningElement_7885 ifcowl:x_max 8.383000373840332.
+ inst:IfcOpeningElement_7885 ifcowl:y_max -17.382999420166016.
+ inst:IfcOpeningElement_7885 ifcowl:z_max 4.7845001220703125.
+
+ inst:IfcOpeningElement_15885 ifcowl:x_min 1.4179999828338623.
+ inst:IfcOpeningElement_15885 ifcowl:y_min -11.673999786376953.
+ inst:IfcOpeningElement_15885 ifcowl:z_min 3.0999999046325684.
+ inst:IfcOpeningElement_15885 ifcowl:x_max 2.2820000648498535.
+ inst:IfcOpeningElement_15885 ifcowl:y_max -11.550000190734863.
+ inst:IfcOpeningElement_15885 ifcowl:z_max 5.131999969482422.
+
+ inst:IfcOpeningElement_6293 ifcowl:x_min 3.5480000972747803.
+ inst:IfcOpeningElement_6293 ifcowl:y_min -0.4169999957084656.
+ inst:IfcOpeningElement_6293 ifcowl:z_min 0.10000000149011612.
+ inst:IfcOpeningElement_6293 ifcowl:x_max 8.383000373840332.
+ inst:IfcOpeningElement_6293 ifcowl:y_max -3.6637359812630166E-15.
+ inst:IfcOpeningElement_6293 ifcowl:z_max 2.5199999809265137.
+
+ inst:IfcOpeningElement_21966 ifcowl:x_min -5.440092820663267E-15.
+ inst:IfcOpeningElement_21966 ifcowl:y_min -17.382999420166016.
+ inst:IfcOpeningElement_21966 ifcowl:z_min 3.200000047683716.
+ inst:IfcOpeningElement_21966 ifcowl:x_max 0.4169999957084656.
+ inst:IfcOpeningElement_21966 ifcowl:y_max -14.583000183105469.
+ inst:IfcOpeningElement_21966 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcOpeningElement_6794 ifcowl:x_min 8.383000373840332.
+ inst:IfcOpeningElement_6794 ifcowl:y_min -5.945000171661377.
+ inst:IfcOpeningElement_6794 ifcowl:z_min 0.10000000149011612.
+ inst:IfcOpeningElement_6794 ifcowl:x_max 8.800000190734863.
+ inst:IfcOpeningElement_6794 ifcowl:y_max -5.195000171661377.
+ inst:IfcOpeningElement_6794 ifcowl:z_max 2.299999952316284.
+
+ inst:IfcOpeningElement_7280 ifcowl:x_min 0.4169999957084656.
+ inst:IfcOpeningElement_7280 ifcowl:y_min -0.4169999957084656.
+ inst:IfcOpeningElement_7280 ifcowl:z_min 3.200000047683716.
+ inst:IfcOpeningElement_7280 ifcowl:x_max 1.2359999418258667.
+ inst:IfcOpeningElement_7280 ifcowl:y_max -1.1102230246251565E-16.
+ inst:IfcOpeningElement_7280 ifcowl:z_max 3.9590001106262207.
+
+ inst:IfcOpeningElement_22226 ifcowl:x_min 8.383000373840332.
+ inst:IfcOpeningElement_22226 ifcowl:y_min -4.136000156402588.
+ inst:IfcOpeningElement_22226 ifcowl:z_min 4.85099983215332.
+ inst:IfcOpeningElement_22226 ifcowl:x_max 8.800000190734863.
+ inst:IfcOpeningElement_22226 ifcowl:y_max -3.316999912261963.
+ inst:IfcOpeningElement_22226 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcOpeningElement_22070 ifcowl:x_min -2.0539125955565396E-15.
+ inst:IfcOpeningElement_22070 ifcowl:y_min -14.482999801635742.
+ inst:IfcOpeningElement_22070 ifcowl:z_min 3.200000047683716.
+ inst:IfcOpeningElement_22070 ifcowl:x_max 0.4169999957084656.
+ inst:IfcOpeningElement_22070 ifcowl:y_max -13.663999557495117.
+ inst:IfcOpeningElement_22070 ifcowl:z_max 3.9590001106262207.
+
+ inst:IfcOpeningElement_8372 ifcowl:x_min 6.457300186157227.
+ inst:IfcOpeningElement_8372 ifcowl:y_min -11.673999786376953.
+ inst:IfcOpeningElement_8372 ifcowl:z_min 3.0999999046325684.
+ inst:IfcOpeningElement_8372 ifcowl:x_max 7.321300029754639.
+ inst:IfcOpeningElement_8372 ifcowl:y_max -11.550000190734863.
+ inst:IfcOpeningElement_8372 ifcowl:z_max 5.131999969482422.
+
+ inst:IfcOpeningElement_6569 ifcowl:x_min 8.383000373840332.
+ inst:IfcOpeningElement_6569 ifcowl:y_min -16.80299949645996.
+ inst:IfcOpeningElement_6569 ifcowl:z_min 4.440892098500626E-16.
+ inst:IfcOpeningElement_6569 ifcowl:x_max 8.800000190734863.
+ inst:IfcOpeningElement_6569 ifcowl:y_max -15.553000450134277.
+ inst:IfcOpeningElement_6569 ifcowl:z_max 2.009999990463257.
+
+ inst:IfcOpeningElement_35399 ifcowl:x_min 5.531374931335449.
+ inst:IfcOpeningElement_35399 ifcowl:y_min -7.845384120941162.
+ inst:IfcOpeningElement_35399 ifcowl:z_min 3.0999999046325684.
+ inst:IfcOpeningElement_35399 ifcowl:x_max 6.293375015258789.
+ inst:IfcOpeningElement_35399 ifcowl:y_max -7.721384048461914.
+ inst:IfcOpeningElement_35399 ifcowl:z_max 5.131999969482422.
+
+ inst:IfcOpeningElement_22174 ifcowl:x_min 8.383000373840332.
+ inst:IfcOpeningElement_22174 ifcowl:y_min -3.2170000076293945.
+ inst:IfcOpeningElement_22174 ifcowl:z_min 3.200000047683716.
+ inst:IfcOpeningElement_22174 ifcowl:x_max 8.800000190734863.
+ inst:IfcOpeningElement_22174 ifcowl:y_max -0.4169999957084656.
+ inst:IfcOpeningElement_22174 ifcowl:z_max 5.610000133514404.
+
+ inst:IfcOpeningElement_14758 ifcowl:x_min 3.7547876834869385.
+ inst:IfcOpeningElement_14758 ifcowl:y_min -6.6215500831604.
+ inst:IfcOpeningElement_14758 ifcowl:z_min 0.18063749372959137.
+ inst:IfcOpeningElement_14758 ifcowl:x_max 4.516687870025635.
+ inst:IfcOpeningElement_14758 ifcowl:y_max -6.12060022354126.
+ inst:IfcOpeningElement_14758 ifcowl:z_max 1.9809499979019165.
+
+ inst:IfcOpeningElement_7989 ifcowl:x_min 6.22599983215332.
+ inst:IfcOpeningElement_7989 ifcowl:y_min -10.053000450134277.
+ inst:IfcOpeningElement_7989 ifcowl:z_min 2.220446049250313E-16.
+ inst:IfcOpeningElement_7989 ifcowl:x_max 6.349999904632568.
+ inst:IfcOpeningElement_7989 ifcowl:y_max -9.291000366210938.
+ inst:IfcOpeningElement_7989 ifcowl:z_max 2.0320000648498535.
+
+ inst:IfcOpeningElement_16306 ifcowl:x_min 6.229875564575195.
+ inst:IfcOpeningElement_16306 ifcowl:y_min -7.9207000732421875.
+ inst:IfcOpeningElement_16306 ifcowl:z_min 0.8600000143051147.
+ inst:IfcOpeningElement_16306 ifcowl:x_max 6.636075496673584.
+ inst:IfcOpeningElement_16306 ifcowl:y_max -7.517300128936768.
+ inst:IfcOpeningElement_16306 ifcowl:z_max 0.8999999761581421.
+
+ inst:IfcOpeningElement_22278 ifcowl:x_min 8.383000373840332.
+ inst:IfcOpeningElement_22278 ifcowl:y_min -4.136000156402588.
+ inst:IfcOpeningElement_22278 ifcowl:z_min 4.0254998207092285.
+ inst:IfcOpeningElement_22278 ifcowl:x_max 8.800000190734863.
+ inst:IfcOpeningElement_22278 ifcowl:y_max -3.316999912261963.
+ inst:IfcOpeningElement_22278 ifcowl:z_max 4.7845001220703125.
+
+ inst:IfcOpeningElement_13340 ifcowl:x_min 4.3207879066467285.
+ inst:IfcOpeningElement_13340 ifcowl:y_min -12.180350303649902.
+ inst:IfcOpeningElement_13340 ifcowl:z_min 0.18063749372959137.
+ inst:IfcOpeningElement_13340 ifcowl:x_max 5.082687854766846.
+ inst:IfcOpeningElement_13340 ifcowl:y_max -11.679400444030762.
+ inst:IfcOpeningElement_13340 ifcowl:z_max 1.9809499979019165.
+
+ inst:IfcOpeningElement_22520 ifcowl:x_min 6.8944501876831055.
+ inst:IfcOpeningElement_22520 ifcowl:y_min -7.6755499839782715.
+ inst:IfcOpeningElement_22520 ifcowl:z_min 4.933000087738037.
+ inst:IfcOpeningElement_22520 ifcowl:x_max 7.923550128936768.
+ inst:IfcOpeningElement_22520 ifcowl:y_max -6.594449996948242.
+ inst:IfcOpeningElement_22520 ifcowl:z_max 7.980999946594238.
+
+ inst:IfcOpeningElement_21705 ifcowl:x_min 2.6349692344665527.
+ inst:IfcOpeningElement_21705 ifcowl:y_min -0.4169999957084656.
+ inst:IfcOpeningElement_21705 ifcowl:z_min 0.0.
+ inst:IfcOpeningElement_21705 ifcowl:x_max 3.4479691982269287.
+ inst:IfcOpeningElement_21705 ifcowl:y_max 1.1879386363489175E-14.
+ inst:IfcOpeningElement_21705 ifcowl:z_max 2.4200000762939453.
+
+ inst:IfcOpeningElement_12583 ifcowl:x_min 2.151787757873535.
+ inst:IfcOpeningElement_12583 ifcowl:y_min -12.180350303649902.
+ inst:IfcOpeningElement_12583 ifcowl:z_min 0.18063749372959137.
+ inst:IfcOpeningElement_12583 ifcowl:x_max 2.9136877059936523.
+ inst:IfcOpeningElement_12583 ifcowl:y_max -11.679400444030762.
+ inst:IfcOpeningElement_12583 ifcowl:z_max 1.9809499979019165.
+
+ inst:IfcOpeningElement_7011 ifcowl:x_min -1.887379141862766E-15.
+ inst:IfcOpeningElement_7011 ifcowl:y_min -12.604999542236328.
+ inst:IfcOpeningElement_7011 ifcowl:z_min 0.10000000149011612.
+ inst:IfcOpeningElement_7011 ifcowl:x_max 0.4169999957084656.
+ inst:IfcOpeningElement_7011 ifcowl:y_max -11.854999542236328.
+ inst:IfcOpeningElement_7011 ifcowl:z_max 2.299999952316284.
+
+ inst:IfcOpeningElement_22382 ifcowl:x_min 8.383000373840332.
+ inst:IfcOpeningElement_22382 ifcowl:y_min -12.52400016784668.
+ inst:IfcOpeningElement_22382 ifcowl:z_min 3.200000047683716.
+ inst:IfcOpeningElement_22382 ifcowl:x_max 8.800000190734863.
+ inst:IfcOpeningElement_22382 ifcowl:y_max -11.77400016784668.
+ inst:IfcOpeningElement_22382 ifcowl:z_max 5.400000095367432.
+
+ inst:IfcOpeningElement_35241 ifcowl:x_min 2.5260000228881836.
+ inst:IfcOpeningElement_35241 ifcowl:y_min -10.094051361083984.
+ inst:IfcOpeningElement_35241 ifcowl:z_min 3.0999999046325684.
+ inst:IfcOpeningElement_35241 ifcowl:x_max 3.2880001068115234.
+ inst:IfcOpeningElement_35241 ifcowl:y_max -9.970050811767578.
+ inst:IfcOpeningElement_35241 ifcowl:z_max 5.131999969482422.
+
+ inst:IfcOpeningElement_14049 ifcowl:x_min 5.923787593841553.
+ inst:IfcOpeningElement_14049 ifcowl:y_min -6.6215500831604.
+ inst:IfcOpeningElement_14049 ifcowl:z_min 0.18063749372959137.
+ inst:IfcOpeningElement_14049 ifcowl:x_max 6.68568754196167.
+ inst:IfcOpeningElement_14049 ifcowl:y_max -6.12060022354126.
+ inst:IfcOpeningElement_14049 ifcowl:z_max 1.9809499979019165.
+
+ inst:IfcOpeningElement_15999 ifcowl:x_min 6.478000164031982.
+ inst:IfcOpeningElement_15999 ifcowl:y_min -6.25.
+ inst:IfcOpeningElement_15999 ifcowl:z_min 3.0999999046325684.
+ inst:IfcOpeningElement_15999 ifcowl:x_max 7.3420000076293945.
+ inst:IfcOpeningElement_15999 ifcowl:y_max -6.125999927520752.
+ inst:IfcOpeningElement_15999 ifcowl:z_max 5.131999969482422.
+
+ inst:IfcOpeningElement_16847 ifcowl:x_min 2.763000011444092.
+ inst:IfcOpeningElement_16847 ifcowl:y_min -10.860699653625488.
+ inst:IfcOpeningElement_16847 ifcowl:z_min 0.8600000143051147.
+ inst:IfcOpeningElement_16847 ifcowl:x_max 3.1691999435424805.
+ inst:IfcOpeningElement_16847 ifcowl:y_max -10.457300186157227.
+ inst:IfcOpeningElement_16847 ifcowl:z_max 0.8999999761581421.
+
+ inst:IfcOpeningElement_8206 ifcowl:x_min 1.483299970626831.
+ inst:IfcOpeningElement_8206 ifcowl:y_min -6.25.
+ inst:IfcOpeningElement_8206 ifcowl:z_min 3.0999999046325684.
+ inst:IfcOpeningElement_8206 ifcowl:x_max 2.3473000526428223.
+ inst:IfcOpeningElement_8206 ifcowl:y_max -6.125999927520752.
+ inst:IfcOpeningElement_8206 ifcowl:z_max 5.131999969482422.

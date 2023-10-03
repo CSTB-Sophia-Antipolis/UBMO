@@ -1,0 +1,93 @@
+@prefix ifcowl:  <http://www.buildingsmart-tech.org/ifcOWL/IFC2X3_TC1#> .
+@prefix inst: <http://linkedbuildingdata.net/ifc/resources86d73257/>.
+
+ inst:IfcCovering_23992 ifcowl:x_min 0.4169999957084656.
+ inst:IfcCovering_23992 ifcowl:y_min -17.382999420166016.
+ inst:IfcCovering_23992 ifcowl:z_min 2.5999999046325684.
+ inst:IfcCovering_23992 ifcowl:x_max 8.383000373840332.
+ inst:IfcCovering_23992 ifcowl:y_max -8.074999809265137.
+ inst:IfcCovering_23992 ifcowl:z_max 2.6570000648498535.
+
+ inst:IfcCovering_24128 ifcowl:x_min 4.675000190734863.
+ inst:IfcCovering_24128 ifcowl:y_min -6.665999889373779.
+ inst:IfcCovering_24128 ifcowl:z_min 5.699999809265137.
+ inst:IfcCovering_24128 ifcowl:x_max 8.383000373840332.
+ inst:IfcCovering_24128 ifcowl:y_max -0.4169999957084656.
+ inst:IfcCovering_24128 ifcowl:z_max 5.756999969482422.
+
+ inst:IfcCovering_24186 ifcowl:x_min 4.675000190734863.
+ inst:IfcCovering_24186 ifcowl:y_min -10.949999809265137.
+ inst:IfcCovering_24186 ifcowl:z_min 5.699999809265137.
+ inst:IfcCovering_24186 ifcowl:x_max 6.294000148773193.
+ inst:IfcCovering_24186 ifcowl:y_max -6.789999961853027.
+ inst:IfcCovering_24186 ifcowl:z_max 5.756999969482422.
+
+ inst:IfcCovering_23671 ifcowl:x_min 0.4169999957084656.
+ inst:IfcCovering_23671 ifcowl:y_min -9.725000381469727.
+ inst:IfcCovering_23671 ifcowl:z_min 2.5999999046325684.
+ inst:IfcCovering_23671 ifcowl:x_max 8.383000373840332.
+ inst:IfcCovering_23671 ifcowl:y_max -0.4169999957084656.
+ inst:IfcCovering_23671 ifcowl:z_max 2.6570000648498535.
+
+ inst:IfcCovering_24408 ifcowl:x_min 0.4169999957084656.
+ inst:IfcCovering_24408 ifcowl:y_min -11.550000190734863.
+ inst:IfcCovering_24408 ifcowl:z_min 5.699999809265137.
+ inst:IfcCovering_24408 ifcowl:x_max 2.381999969482422.
+ inst:IfcCovering_24408 ifcowl:y_max -6.25.
+ inst:IfcCovering_24408 ifcowl:z_max 5.756999969482422.
+
+ inst:IfcCovering_24326 ifcowl:x_min 2.50600004196167.
+ inst:IfcCovering_24326 ifcowl:y_min -11.010000228881836.
+ inst:IfcCovering_24326 ifcowl:z_min 5.699999809265137.
+ inst:IfcCovering_24326 ifcowl:x_max 4.125.
+ inst:IfcCovering_24326 ifcowl:y_max -6.849999904632568.
+ inst:IfcCovering_24326 ifcowl:z_max 5.756999969482422.
+
+ inst:IfcCovering_23768 ifcowl:x_min 2.5739998817443848.
+ inst:IfcCovering_23768 ifcowl:y_min -9.725000381469727.
+ inst:IfcCovering_23768 ifcowl:z_min 2.5999999046325684.
+ inst:IfcCovering_23768 ifcowl:x_max 4.125.
+ inst:IfcCovering_23768 ifcowl:y_max -7.677000045776367.
+ inst:IfcCovering_23768 ifcowl:z_max 2.6570000648498535.
+
+ inst:IfcCovering_24060 ifcowl:x_min 0.4169999957084656.
+ inst:IfcCovering_24060 ifcowl:y_min -6.665999889373779.
+ inst:IfcCovering_24060 ifcowl:z_min 5.699999809265137.
+ inst:IfcCovering_24060 ifcowl:x_max 4.125.
+ inst:IfcCovering_24060 ifcowl:y_max -0.4169999957084656.
+ inst:IfcCovering_24060 ifcowl:z_max 5.756999969482422.
+
+ inst:IfcCovering_23826 ifcowl:x_min 2.5739998817443848.
+ inst:IfcCovering_23826 ifcowl:y_min -9.725000381469727.
+ inst:IfcCovering_23826 ifcowl:z_min 2.5999999046325684.
+ inst:IfcCovering_23826 ifcowl:x_max 4.125.
+ inst:IfcCovering_23826 ifcowl:y_max -7.677000045776367.
+ inst:IfcCovering_23826 ifcowl:z_max 2.6570000648498535.
+
+ inst:IfcCovering_24476 ifcowl:x_min 0.4169999957084656.
+ inst:IfcCovering_24476 ifcowl:y_min -17.382999420166016.
+ inst:IfcCovering_24476 ifcowl:z_min 5.699999809265137.
+ inst:IfcCovering_24476 ifcowl:x_max 4.125.
+ inst:IfcCovering_24476 ifcowl:y_max -11.133999824523926.
+ inst:IfcCovering_24476 ifcowl:z_max 5.756999969482422.
+
+ inst:IfcCovering_24544 ifcowl:x_min 4.675000190734863.
+ inst:IfcCovering_24544 ifcowl:y_min -17.382999420166016.
+ inst:IfcCovering_24544 ifcowl:z_min 5.699999809265137.
+ inst:IfcCovering_24544 ifcowl:x_max 8.383000373840332.
+ inst:IfcCovering_24544 ifcowl:y_max -11.133999824523926.
+ inst:IfcCovering_24544 ifcowl:z_max 5.756999969482422.
+
+ inst:IfcCovering_23884 ifcowl:x_min 4.675000190734863.
+ inst:IfcCovering_23884 ifcowl:y_min -10.246000289916992.
+ inst:IfcCovering_23884 ifcowl:z_min 2.5999999046325684.
+ inst:IfcCovering_23884 ifcowl:x_max 6.22599983215332.
+ inst:IfcCovering_23884 ifcowl:y_max -8.074999809265137.
+ inst:IfcCovering_23884 ifcowl:z_max 2.6570000648498535.
+
+ inst:IfcCovering_24268 ifcowl:x_min 6.418000221252441.
+ inst:IfcCovering_24268 ifcowl:y_min -11.550000190734863.
+ inst:IfcCovering_24268 ifcowl:z_min 5.699999809265137.
+ inst:IfcCovering_24268 ifcowl:x_max 8.383000373840332.
+ inst:IfcCovering_24268 ifcowl:y_max -6.25.
+ inst:IfcCovering_24268 ifcowl:z_max 5.756999969482422.
