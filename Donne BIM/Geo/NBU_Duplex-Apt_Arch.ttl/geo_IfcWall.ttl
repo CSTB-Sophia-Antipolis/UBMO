@@ -1,9 +1,0 @@
-@prefix ifcowl:  <http://www.buildingsmart-tech.org/ifcOWL/IFC2X3_TC1#> .
-@prefix inst: <http://linkedbuildingdata.net/ifc/resources86d73257/>.
-
- inst:IfcWall_5399 ifcowl:x_min 4.125.
- inst:IfcWall_5399 ifcowl:y_min -17.382999420166016.
- inst:IfcWall_5399 ifcowl:z_min 3.0999999046325684.
- inst:IfcWall_5399 ifcowl:x_max 4.675000190734863.
- inst:IfcWall_5399 ifcowl:y_max -0.4169999957084656.
- inst:IfcWall_5399 ifcowl:z_max 6.0.
